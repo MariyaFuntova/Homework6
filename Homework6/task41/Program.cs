@@ -5,6 +5,8 @@ int [] array = new int[size];
     {
         array[i] = Convert.ToInt32(Console.ReadLine());
     }
+    
+
 int numbersLargerZero(int[] array)
 {
     int count = 0;
